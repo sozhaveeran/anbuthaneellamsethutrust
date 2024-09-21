@@ -69,7 +69,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/us-pg.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -387,11 +387,12 @@ a:focus {
 }
 
 .trainer_section {
-  background-image: url(../images/trainer-bg.jpg);
+  background-image: url(../images/achivmentbackground.jpg);
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
 }
+
 
 .trainer_section .box {
   margin-top: 55px;
@@ -413,9 +414,8 @@ a:focus {
   margin-bottom: 15px;
 }
 
-.trainer_section .box .img-box {
+.img-box {
   border-radius: 15px;
-  overflow: hidden;
 }
 
 .trainer_section .box .img-box img {
